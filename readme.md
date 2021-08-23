@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/nodejs/3/user/1884081).
-* Наставник: Александр Бритов.
+* Наставник: [Александр Бритов](https://htmlacademy.ru/profile/id1628419). 
 
 ---
 
